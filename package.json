@@ -1,0 +1,24 @@
+{
+  "name": "ibmautomatioonrecap",
+  "version": "1.0.0",
+  "description": "Protractor Automation",
+  "main": "index.js",
+  "scripts": {
+    "update":"webdriver-manager update",
+    "test": "protractor PageObjectModelExampleNOPCom/conf.js"
+  },
+  "dependencies": {
+    "allure-commandline": "^2.17.2",
+    "jasmine": "^3.7.0",
+    "jasmine-allure-reporter": "^1.0.2",
+    "protractor": "^7.0.0"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "Rajesh Singh",
+  "license": "ISC",
+  "devDependencies": {
+    "protractor-jasmine2-screenshot-reporter": "^0.5.0"
+  }
+}
