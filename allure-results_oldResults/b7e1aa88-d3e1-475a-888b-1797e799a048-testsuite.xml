@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1649930687216' stop='1649930699850'>
+    <name>HRM login Example</name>
+    <title>HRM login Example</title>
+    <test-cases>
+        <test-case start='1649930688358' status='passed' stop='1649930694507'>
+            <name>TC_001 - verify login with valid user credenatils</name>
+            <title>TC_001 - verify login with valid user credenatils</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

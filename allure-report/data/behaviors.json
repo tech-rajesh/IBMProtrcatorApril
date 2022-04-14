@@ -1,0 +1,22 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "TC_001 - verify login with valid user credenatils",
+    "uid" : "4b2a4982ab5fdc94",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1649931830959,
+      "stop" : 1649931835696,
+      "duration" : 4737
+    },
+    "flaky" : false,
+    "newFailed" : true,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 4,
+    "retriesStatusChange" : true,
+    "parameters" : [ ]
+  } ]
+}

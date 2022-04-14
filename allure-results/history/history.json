@@ -1,0 +1,49 @@
+{
+  "61c8e79d59e9bcea15ceb10055934bf4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "31aa1fefa6c03456",
+      "reportUrl" : "http://localhost:9191/job/IBMProtractorApril2022/6/allure/#testresult/31aa1fefa6c03456",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649931775427,
+        "stop" : 1649931783146,
+        "duration" : 7719
+      }
+    }, {
+      "uid" : "d5a5b308b75e344f",
+      "reportUrl" : "http://localhost:9191/job/IBMProtractorApril2022/5/allure/#testresult/d5a5b308b75e344f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649931605550,
+        "stop" : 1649931611814,
+        "duration" : 6264
+      }
+    }, {
+      "uid" : "8bb68f49f04c57da",
+      "reportUrl" : "http://localhost:9191/job/IBMProtractorApril2022/4/allure/#testresult/8bb68f49f04c57da",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649931487477,
+        "stop" : 1649931496122,
+        "duration" : 8645
+      }
+    }, {
+      "uid" : "abf123146a4c5d30",
+      "reportUrl" : "http://localhost:9191/job/IBMProtractorApril2022/3/allure/#testresult/abf123146a4c5d30",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649931369732,
+        "stop" : 1649931392860,
+        "duration" : 23128
+      }
+    } ]
+  }
+}

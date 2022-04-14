@@ -1,0 +1,48 @@
+{
+  "uid" : "5ec073bd4b3d750d",
+  "name" : "TC_001 - verify login with valid user credenatils",
+  "fullName" : "HRM login Example.TC_001 - verify login with valid user credenatils",
+  "historyId" : "61c8e79d59e9bcea15ceb10055934bf4",
+  "time" : {
+    "start" : 1649931775427,
+    "stop" : 1649931783146,
+    "duration" : 7719
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "HRM login Example"
+  }, {
+    "name" : "testClass",
+    "value" : "HRM login Example"
+  }, {
+    "name" : "testMethod",
+    "value" : "TC_001 - verify login with valid user credenatils"
+  }, {
+    "name" : "package",
+    "value" : "HRM login Example"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5ec073bd4b3d750d.json",
+  "parameterValues" : [ ]
+}

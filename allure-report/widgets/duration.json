@@ -1,0 +1,11 @@
+[ {
+  "uid" : "4b2a4982ab5fdc94",
+  "name" : "TC_001 - verify login with valid user credenatils",
+  "time" : {
+    "start" : 1649931830959,
+    "stop" : 1649931835696,
+    "duration" : 4737
+  },
+  "status" : "failed",
+  "severity" : "normal"
+} ]

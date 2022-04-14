@@ -1,0 +1,26 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "HRM login Example",
+    "children" : [ {
+      "name" : "TC_001 - verify login with valid user credenatils",
+      "uid" : "4b2a4982ab5fdc94",
+      "parentUid" : "2fa15bb377256e89b83241ca5c24c068",
+      "status" : "failed",
+      "time" : {
+        "start" : 1649931830959,
+        "stop" : 1649931835696,
+        "duration" : 4737
+      },
+      "flaky" : false,
+      "newFailed" : true,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 4,
+      "retriesStatusChange" : true,
+      "parameters" : [ ]
+    } ],
+    "uid" : "2fa15bb377256e89b83241ca5c24c068"
+  } ]
+}

@@ -1,0 +1,30 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Error: Timeout - Async callback was not invoked within timeout specified by jasmine.DEFAULT_TIMEOUT_INTERVAL.",
+      "children" : [ {
+        "name" : "TC_001 - verify login with valid user credenatils",
+        "uid" : "4b2a4982ab5fdc94",
+        "parentUid" : "529a5c49d07d5715f54949d670a9ff89",
+        "status" : "failed",
+        "time" : {
+          "start" : 1649931830959,
+          "stop" : 1649931835696,
+          "duration" : 4737
+        },
+        "flaky" : false,
+        "newFailed" : true,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 4,
+        "retriesStatusChange" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "529a5c49d07d5715f54949d670a9ff89"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

@@ -1,0 +1,90 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "TC_001 - verify login with valid user credenatils",
+    "uid" : "9d288f95c898b465",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1649931605550,
+      "stop" : 1649931611814,
+      "duration" : 6264
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "TC_001 - verify login with valid user credenatils",
+    "uid" : "ee090bac293cbdca",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1649931369732,
+      "stop" : 1649931392860,
+      "duration" : 23128
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "TC_001 - verify login with valid user credenatils",
+    "uid" : "5ec073bd4b3d750d",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1649931775427,
+      "stop" : 1649931783146,
+      "duration" : 7719
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "TC_001 - verify login with valid user credenatils",
+    "uid" : "4b2a4982ab5fdc94",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1649931830959,
+      "stop" : 1649931835696,
+      "duration" : 4737
+    },
+    "flaky" : false,
+    "newFailed" : true,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 4,
+    "retriesStatusChange" : true,
+    "parameters" : [ ]
+  }, {
+    "name" : "TC_001 - verify login with valid user credenatils",
+    "uid" : "6fcfe78da4c1fe01",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1649931487477,
+      "stop" : 1649931496122,
+      "duration" : 8645
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  } ]
+}

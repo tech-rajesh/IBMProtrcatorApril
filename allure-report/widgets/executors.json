@@ -1,0 +1,10 @@
+[ {
+  "name" : "Jenkins",
+  "type" : "jenkins",
+  "url" : "http://localhost:9191/",
+  "buildOrder" : 7,
+  "buildName" : "IBMProtractorApril2022 #7",
+  "buildUrl" : "http://localhost:9191/job/IBMProtractorApril2022/7/",
+  "reportName" : "AllureReport",
+  "reportUrl" : "http://localhost:9191/job/IBMProtractorApril2022/7/allure"
+} ]
